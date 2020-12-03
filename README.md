@@ -2,7 +2,7 @@
 
 ## Getting Started 
 
-The main goal of the project, It is downloading images using urls from Google Drive into corresponded folders. After that uploading as zip file (all images) to Google Drive. Detailed description you can read down below. 
+The main goal of the project is downloading images using URLs from Google Drive into corresponded folders. After that uploading as a zip file (all images) to Google Drive. Detailed description you can read down below. 
 
 ### Step 1. Enable Google Drive API service
 
