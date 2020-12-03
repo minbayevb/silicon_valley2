@@ -25,7 +25,7 @@ Another important thing is connecting to [GOOGLE SHEETS](https://learndataanalys
 #### Running a Code
 
 1. To connect and start downloading images you need to run [Download.py](https://github.com/minbayevb/silicon_valley2/blob/master/Downloader.py) 
-2. To orgonize images into folders [org_images.py]https://github.com/minbayevb/silicon_valley2/blob/master/org_images.py 
+2. To orgonize images into folders [org_images.py](https://github.com/minbayevb/silicon_valley2/blob/master/org_images.py)
 3. To upload as zip file [upload.py](https://github.com/minbayevb/silicon_valley2/blob/master/upload.py) 
 
 To start uploading a zip file to Google Drive, you need to convert it to a zip file (images folder) manually after organizing it into folders. 
