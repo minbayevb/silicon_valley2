@@ -20,7 +20,7 @@ Every request your application sends to the Drive API must include an authorizat
 
 Application must use [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2) to authorize requests.
 
-Another important thing it is connecting to GOOGLE SHEETS more detaile you can file here. (https://learndataanalysis.org/getting-started-google-sheets-api-in-python-part-1/)
+Another important thing is connecting to [GOOGLE SHEETS](https://learndataanalysis.org/getting-started-google-sheets-api-in-python-part-1/) more detail you can file here. 
 
 #### Running a Code
 
@@ -28,7 +28,7 @@ Another important thing it is connecting to GOOGLE SHEETS more detaile you can f
 2. To orgonize images into folders [org_images.py]https://github.com/minbayevb/silicon_valley2/blob/master/org_images.py 
 3. To upload as zip file [upload.py](https://github.com/minbayevb/silicon_valley2/blob/master/upload.py) 
 
-To start uploading zip file to Google Drive, you need convert to zip file (images fodler) manually after organizing into folders. 
+To start uploading a zip file to Google Drive, you need to convert it to a zip file (images folder) manually after organizing it into folders. 
 
 ##### Requirements
 
