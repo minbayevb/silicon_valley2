@@ -20,7 +20,7 @@ Every request your application sends to the Drive API must include an authorizat
 
 Application must use [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2) to authorize requests.
 
-Another important thing is connecting to [GOOGLE SHEETS](https://learndataanalysis.org/getting-started-google-sheets-api-in-python-part-1/) more detail you can file here. 
+Another important thing is connecting to [GOOGLE SHEETS](https://learndataanalysis.org/getting-started-google-sheets-api-in-python-part-1/) more detail you can see here. 
 
 #### Running a Code
 
